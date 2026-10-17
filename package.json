@@ -1,0 +1,19 @@
+{
+  "name": "cineflix-movie-explorer",
+  "version": "1.0.0",
+  "description": "Online Movie and Entertainment Explorer with Netflix Aesthetics and Chart.js Analytics",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "start": "npx -y serve . -l 3000"
+  },
+  "keywords": [
+    "movie-explorer",
+    "netflix-theme",
+    "chartjs",
+    "vanilla-js",
+    "entertainment-portal"
+  ],
+  "author": "",
+  "license": "MIT"
+}

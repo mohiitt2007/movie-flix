@@ -1,0 +1,779 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "rating": 8.8,
+    "rottenTomatoes": "87%",
+    "metascore": 74,
+    "matchScore": 98,
+    "certificate": "PG-13",
+    "runtime": "148 min",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+    "trailerId": "YoHD9XEInc0",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.0,
+    "rottenTomatoes": "94%",
+    "metascore": 84,
+    "matchScore": 99,
+    "certificate": "PG-13",
+    "runtime": "152 min",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ],
+    "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "trailerId": "EXeTwQWrcwY",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "rottenTomatoes": "73%",
+    "metascore": 74,
+    "matchScore": 97,
+    "certificate": "PG-13",
+    "runtime": "169 min",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "synopsis": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+    "trailerId": "zSWdZVtXT7E",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "genre": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "rating": 8.6,
+    "rottenTomatoes": "92%",
+    "metascore": 79,
+    "matchScore": 98,
+    "certificate": "PG-13",
+    "runtime": "166 min",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timoth\u00e9e Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "synopsis": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s52004d.jpg",
+    "trailerId": "Way9Dexny3w",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.9,
+    "rottenTomatoes": "92%",
+    "metascore": 95,
+    "matchScore": 96,
+    "certificate": "R",
+    "runtime": "154 min",
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis"
+    ],
+    "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "trailerId": "s7EdQ4FqbhY",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.7,
+    "rottenTomatoes": "95%",
+    "metascore": 86,
+    "matchScore": 99,
+    "certificate": "PG",
+    "runtime": "140 min",
+    "director": "Joaquim Dos Santos, Kemp Powers",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Oscar Isaac",
+      "Daniel Kaluuya"
+    ],
+    "synopsis": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When heroes clash on handling a new threat, Miles must redefine what being a hero means.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "trailerId": "cqGjhVJWtEg",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "rating": 8.5,
+    "rottenTomatoes": "99%",
+    "metascore": 96,
+    "matchScore": 97,
+    "certificate": "R",
+    "runtime": "132 min",
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpnnKn9XqtGhR9u0oWb9qpjc.jpg",
+    "trailerId": "5xH0R_fx3gk",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "rating": 8.9,
+    "rottenTomatoes": "93%",
+    "metascore": 90,
+    "matchScore": 98,
+    "certificate": "R",
+    "runtime": "180 min",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr."
+    ],
+    "synopsis": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fm6K9vY9wgjhCwzyo9ym99vYvrz.jpg",
+    "trailerId": "uYPbbksJxIg",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "rottenTomatoes": "94%",
+    "metascore": 78,
+    "matchScore": 95,
+    "certificate": "PG-13",
+    "runtime": "181 min",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "synopsis": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "trailerId": "TcMBFSGVi1c",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 8.6,
+    "rottenTomatoes": "96%",
+    "metascore": 96,
+    "matchScore": 97,
+    "certificate": "PG",
+    "runtime": "125 min",
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, a world where humans are changed into beasts.",
+    "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "trailerId": "ByXuk9QqQkk",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating": 8.7,
+    "rottenTomatoes": "83%",
+    "metascore": 73,
+    "matchScore": 96,
+    "certificate": "R",
+    "runtime": "136 min",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "synopsis": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7c9UVPPiTPltouxRVY6N9uugaVA.jpg",
+    "trailerId": "vKQi3bBA1y8",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.8,
+    "rottenTomatoes": "79%",
+    "metascore": 66,
+    "matchScore": 95,
+    "certificate": "R",
+    "runtime": "139 min",
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "synopsis": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "trailerId": "qtRKdVHc69g",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "rottenTomatoes": "80%",
+    "metascore": 67,
+    "matchScore": 94,
+    "certificate": "R",
+    "runtime": "155 min",
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "trailerId": "owK1qxDselE",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": [
+      "Drama"
+    ],
+    "rating": 9.3,
+    "rottenTomatoes": "91%",
+    "metascore": 82,
+    "matchScore": 99,
+    "certificate": "R",
+    "runtime": "142 min",
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "synopsis": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "trailerId": "PLl99DlL6b4",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genre": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama"
+    ],
+    "rating": 8.0,
+    "rottenTomatoes": "88%",
+    "metascore": 81,
+    "matchScore": 93,
+    "certificate": "R",
+    "runtime": "164 min",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Sylvia Hoeks"
+    ],
+    "synopsis": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ilRyAZwNpHqDY9sq7t3WFalI2J5.jpg",
+    "trailerId": "gCcx85zbxz4",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": [
+      "Drama",
+      "Music"
+    ],
+    "rating": 8.5,
+    "rottenTomatoes": "94%",
+    "metascore": 88,
+    "matchScore": 96,
+    "certificate": "R",
+    "runtime": "106 min",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "synopsis": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fRGxZuo6j9708ugv5J8sWq1Zz5k.jpg",
+    "trailerId": "7d_jQycdQGo",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "Joker",
+    "year": 2019,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.4,
+    "rottenTomatoes": "69%",
+    "metascore": 59,
+    "matchScore": 94,
+    "certificate": "R",
+    "runtime": "122 min",
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "synopsis": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+    "trailerId": "zAGVQLHvwOY",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "title": "Coco",
+    "year": 2017,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "rating": 8.4,
+    "rottenTomatoes": "97%",
+    "metascore": 81,
+    "matchScore": 97,
+    "certificate": "PG",
+    "runtime": "105 min",
+    "director": "Lee Unkrich, Adrian Molina",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc\u00eda Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "synopsis": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "poster": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtQw40Y.jpg",
+    "trailerId": "Rvr68u6k5sI",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.2,
+    "rottenTomatoes": "97%",
+    "metascore": 100,
+    "matchScore": 99,
+    "certificate": "R",
+    "runtime": "175 min",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall"
+    ],
+    "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant youngest son.",
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWF92vGZSDTM6i2gW.jpg",
+    "trailerId": "sY1S34973zA",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "title": "Back to the Future",
+    "year": 1985,
+    "genre": [
+      "Sci-Fi",
+      "Comedy",
+      "Adventure"
+    ],
+    "rating": 8.5,
+    "rottenTomatoes": "93%",
+    "metascore": 87,
+    "matchScore": 96,
+    "certificate": "PG",
+    "runtime": "116 min",
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover"
+    ],
+    "synopsis": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+    "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5qHoAZSlQ8YgCrgL18tqfK1F75E.jpg",
+    "trailerId": "qvsgGtivCgs",
+    "featured": false
+  },
+  {
+    "id": 21,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": [
+      "Adventure",
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating": 8.2,
+    "rottenTomatoes": "92%",
+    "metascore": 68,
+    "matchScore": 95,
+    "certificate": "PG-13",
+    "runtime": "127 min",
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "synopsis": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "poster": "https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/c4rA7t4hNknpTj29X3zC2bO8Vz.jpg",
+    "trailerId": "QWBKEmWWL38",
+    "featured": false
+  },
+  {
+    "id": 22,
+    "title": "Alien",
+    "year": 1979,
+    "genre": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "rating": 8.5,
+    "rottenTomatoes": "93%",
+    "metascore": 89,
+    "matchScore": 95,
+    "certificate": "R",
+    "runtime": "117 min",
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Veronica Cartwright"
+    ],
+    "synopsis": "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission.",
+    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/AmR3JG1DYz53Ktk86iRZEeapbVb.jpg",
+    "trailerId": "jQ5l533nV8w",
+    "featured": false
+  },
+  {
+    "id": 23,
+    "title": "Get Out",
+    "year": 2017,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 7.8,
+    "rottenTomatoes": "98%",
+    "metascore": 85,
+    "matchScore": 96,
+    "certificate": "R",
+    "runtime": "104 min",
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford",
+      "Catherine Keener"
+    ],
+    "synopsis": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vZ7Edjt3N993wQvFkRz0Yn5C92b.jpg",
+    "trailerId": "DzfpyUB60YY",
+    "featured": false
+  },
+  {
+    "id": 24,
+    "title": "Goodfellas",
+    "year": 1990,
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "rottenTomatoes": "96%",
+    "metascore": 92,
+    "matchScore": 97,
+    "certificate": "R",
+    "runtime": "145 min",
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "synopsis": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "poster": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "trailerId": "qo5jJpHtTx8",
+    "featured": false
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "rating": 8.3,
+    "rottenTomatoes": "96%",
+    "metascore": 78,
+    "matchScore": 98,
+    "certificate": "PG-13",
+    "runtime": "130 min",
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly",
+      "Jon Hamm"
+    ],
+    "synopsis": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN graduates on an impossible mission.",
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+    "trailerId": "giXco2jaZ_4",
+    "featured": false,
+    "id": 25
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 7.8,
+    "rottenTomatoes": "85%",
+    "metascore": 72,
+    "matchScore": 95,
+    "certificate": "PG-13",
+    "runtime": "176 min",
+    "director": "Matt Reeves",
+    "cast": [
+      "Robert Pattinson",
+      "Zo\u00eb Kravitz",
+      "Paul Dano",
+      "Jeffrey Wright"
+    ],
+    "synopsis": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city hidden corruption and question his family involvement.",
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+    "trailerId": "mqqft2x_Aa4",
+    "featured": false,
+    "id": 26
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": 8.2,
+    "rottenTomatoes": "93%",
+    "metascore": 71,
+    "matchScore": 97,
+    "certificate": "PG-13",
+    "runtime": "148 min",
+    "director": "Jon Watts",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon"
+    ],
+    "synopsis": "With Spider-Man identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+    "trailerId": "JfVOs4VSpmA",
+    "featured": false,
+    "id": 27
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": 8.4,
+    "rottenTomatoes": "85%",
+    "metascore": 68,
+    "matchScore": 97,
+    "certificate": "PG-13",
+    "runtime": "149 min",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation puts an end to the universe.",
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+    "trailerId": "6ZfuNTqbHE8",
+    "featured": false,
+    "id": 28
+  }
+]
